@@ -1,0 +1,30 @@
+.bg-yellow{
+    background: #ffbd00;
+}
+nav ul a{
+    color: #333;
+    font-weight: bold;
+    font-size: 13px;
+}
+nav ul a:hover{
+    color: #000;
+    font-weight: bold;
+    font-size: 13px;
+    text-decoration: none;
+}
+.navbar-right{
+    background: #000;
+    padding: 20px;
+    display: inline-block;
+
+}
+.navbar-right ul{
+    background: #900;
+    padding: 20px;
+
+}
+.navbar-right ul li{
+    background: #fc0;
+    padding: 20px;
+
+}

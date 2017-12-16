@@ -1,0 +1,20 @@
+div.render-user-data img {
+    border-radius: 50%;
+    width: 42px;
+}
+
+div.render-user-data {
+    position: relative;
+    left: 835px;
+    color: white;
+}
+
+div.login.screen {
+    background-color: none;
+}
+
+div.render-login-button {
+    position: relative;
+    left: 835px;
+    bottom: 55px;
+}
